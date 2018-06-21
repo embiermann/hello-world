@@ -1,2 +1,2 @@
 # hello-world
-Let's try this out...
+Hello there! My name is Emily Biermann and I am a physics major at Stony Brook University.
